@@ -13,14 +13,15 @@ Git
 
 Lépések
 
-Klónozza a repository-t:
+1.
 git clone https://github.com/yourusername/agentic-rag-chatbot.git
 cd agentic-rag-chatbot
 
-Függőségek telepítése:
+2.
 pip install -r requirements.txt
 
-Indítsa el az Ollama szervert a megfelelő modellel:
-ollama run llama3
-Megjegyzés: Más modellt is használhat, de akkor frissítse az app.py fájlban a OLLAMA_MODEL változót.
-Indítsa el
+3.
+ollama run llama3.2
+
+4.
+streamlit run streamlit_app.py
