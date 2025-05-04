@@ -24,3 +24,5 @@ Lépések
 
 4,
   streamlit run streamlit_app.py
+
+![image](https://github.com/user-attachments/assets/a3af7944-3962-4c29-8bae-c3762e71189f)
