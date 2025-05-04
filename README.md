@@ -13,14 +13,14 @@ Git
 
 Lépések
 
-1.
+1,
   https://github.com/tmartin98/LanggraphChatbot.git
 
-2.
+2,
   pip install -r requirements.txt
 
-3.
+3,
   ollama run llama3.2
 
-4.
+4,
   streamlit run streamlit_app.py
