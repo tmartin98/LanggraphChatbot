@@ -14,14 +14,13 @@ Git
 Lépések
 
 1.
-git clone https://github.com/yourusername/agentic-rag-chatbot.git
-cd agentic-rag-chatbot
+  https://github.com/tmartin98/LanggraphChatbot.git
 
 2.
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 3.
-ollama run llama3.2
+  ollama run llama3.2
 
 4.
-streamlit run streamlit_app.py
+  streamlit run streamlit_app.py
