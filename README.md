@@ -1,7 +1,3 @@
-Agentic RAG Chatbot
-Ez a projekt egy prototípus agentic RAG (Retrieval-Augmented Generation) chatbot alkalmazást implementál, amely képes PDF dokumentumokból információt kinyerni és intelligens módon válaszolni a felhasználói kérdésekre.
-Főbb jellemzők
-
 PDF dokumentum feldolgozás: A rendszer automatikusan feldolgozza és vektorizálja a feltöltött PDF dokumentumokat
 Agentic működés: A chatbot autonóm módon tervezi meg a válaszadás lépéseit, bontja részfeladatokra a komplex kérdéseket
 RAG technológia: A válaszok generálása a dokumentumból kinyert releváns információk alapján történik
